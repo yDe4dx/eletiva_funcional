@@ -2,7 +2,7 @@ html, body {
     margin: 0;
 }
 #imagem_fundo {
-    background: url("fundo.jpg");
+    background: url("img/capa.jpg");
     height: 100%;
     text-align: center;
     background-image: cover;
